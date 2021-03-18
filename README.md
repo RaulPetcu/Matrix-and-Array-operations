@@ -3,3 +3,5 @@
 ![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img1.png)
 ![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img2.png)
 ![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img3.png)
+![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img4.png)
+![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img5.png)
