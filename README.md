@@ -5,3 +5,8 @@
 ![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img3.png)
 ![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img4.png)
 ![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img5.png)
+![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img6.png)
+![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img7.png)
+![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img8.png)
+![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img9.png)
+![alt text](https://github.com/RaulPetcu/Matrix-and-Array-operations/blob/main/img/img10.png)
